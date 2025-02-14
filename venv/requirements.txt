@@ -3,3 +3,5 @@ pip install pandas
 pip install matplotlib
 pip install seborn
 pip install streamlit pickle-mixin speechrecognition pyttsx3 altair scikit-learn wordcloud 
+scikit-learn
+
